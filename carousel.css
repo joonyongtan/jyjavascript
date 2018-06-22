@@ -2,6 +2,10 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+#test {
+    color: black;
+}
+
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
